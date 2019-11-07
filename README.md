@@ -1,2 +1,2 @@
-# address
-address
+# 계정계 URL 관리자
+계정계 URL을 관리하는 스프링부트 웹서비스
